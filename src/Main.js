@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+//This file contains all the activities from initial to the last page.mportmport React, { Component } from 'react';
 import { BackHandler } from 'react-native';
 import { Root } from 'native-base';
 import { Scene, Router, Actions } from 'react-native-router-flux';
