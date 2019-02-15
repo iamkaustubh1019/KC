@@ -1,3 +1,5 @@
+//This file is the dataschema of products.
+
 const Data = {
   shops: [
     {
